@@ -1,0 +1,11 @@
+__pycache__
+
+.DS_Store
+.ipynb_checkpoints
+
+venv
+CMAPSSData
+CMAPSSData.zip
+
+features_engineering.py
+target_metrics_baseline.py
